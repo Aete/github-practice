@@ -1,3 +1,3 @@
 # Github Tutorial practice
 
-Github 튜토리얼 따라하기
+Github 튜토리얼 따라하기.
