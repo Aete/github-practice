@@ -4,4 +4,4 @@ Github 튜토리얼 따라하기.
 
 ## ReadMe. TEST
 
-### I like it
+### I like it but hate it.
